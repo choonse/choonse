@@ -1,4 +1,4 @@
-### Hi there 👋
+### Front-end engineer
 
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=3DB7CC"/></a>
 <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=A566FF"/></a>
