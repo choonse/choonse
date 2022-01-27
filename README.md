@@ -12,6 +12,6 @@
 <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=white"/></a><br/>
 
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-united-states_1f1fa-1f1f8.png" width='25'>
-<img src="https://flagicons.lipis.dev/flags/4x3/jp.svg" width='25'>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-japan_1f1ef-1f1f5.png" width='25'>
 <img src="https://flagicons.lipis.dev/flags/4x3/cn.svg" width='25'>
 <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width='25'>
