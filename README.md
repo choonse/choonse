@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/badge/Styledcomponents-black?style=flat-square&logo=Styledcomponents&logoColor=FFE08C"/></a>
 <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=white"/></a><br/>
 
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-united-states_1f1fa-1f1f8.png" width='35'></a>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-japan_1f1ef-1f1f5.png" width='35'></a>
-<img src="https://flagicons.lipis.dev/flags/4x3/cn.svg" width='25'>
-<img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width='25'>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-united-states_1f1fa-1f1f8.png" width='30'></a>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-japan_1f1ef-1f1f5.png" width='30'></a>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-china_1f1e8-1f1f3.png" width='30'></a>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-spain_1f1ea-1f1f8.png" width='30'></a>
+
