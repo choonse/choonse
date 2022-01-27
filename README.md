@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=3DB7CC"/></a>
-<img src="https://img.shields.io/badge/Redux-A566FF?style=flat-square&logo=Redux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=A566FF"/></a>
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=yellow"/></a>
 <!--
 **choonse/choonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
