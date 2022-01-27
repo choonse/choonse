@@ -1,6 +1,8 @@
 # I'm a Front-end engineer🙋‍♂️
+<br>
 
-### Working with:<br/>
+### Working with:
+
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=3DB7CC" height='40'/></a>
 <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=A566FF" height='40'/></a>
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=yellow" height='40'/></a>
@@ -12,6 +14,7 @@
 <img src="https://img.shields.io/badge/Typescript-black?style=flat-square&logo=Typescript&logoColor=blue" height='40'/></a>
 <img src="https://img.shields.io/badge/Styledcomponents-black?style=flat-square&logo=Styledcomponents&logoColor=FFE08C" height='40'/></a>
 <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=white" height='40'/></a><br/>
+<br>
 
 ### Working Experienced language:
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-south-korea_1f1f0-1f1f7.png" width='40'></a>
