@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/React-00559?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-
+<img src="https://img.shields.io/badge/React-5CD1E5?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/React-5CD1E5?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-5CD1E5?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-5CD1E5?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-5CD1E5?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-5CD1E5?style=flat-square&logo=React&logoColor=white"/></a>
 <!--
 **choonse/choonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
