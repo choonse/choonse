@@ -5,7 +5,8 @@
 <img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=A566FF" height='40'/></a>
 <img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=yellow" height='40'/></a>
 <img src="https://img.shields.io/badge/Koa-black?style=flat-square&logo=Koa&logoColor=white" height='40'/></a>
-<img src="https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=2F9D27" height='40'/></a><br/>
+<img src="https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=2F9D27" height='40'/></a>
+<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=Html5&logoColor=F29661" height='40'/></a><br/>
 <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=Mongodb&logoColor=2F9D27" height='40'/></a>
 <img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=Css3&logoColor=yellow" height='40'/></a>
 <img src="https://img.shields.io/badge/Typescript-black?style=flat-square&logo=Typescript&logoColor=blue" height='40'/></a>
