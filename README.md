@@ -11,4 +11,4 @@
 <img src="https://img.shields.io/badge/Styledcomponents-black?style=flat-square&logo=Styledcomponents&logoColor=FFE08C"/></a>
 <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=white"/></a><br/>
 
-<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width='5'>
+<img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width='20'>
