@@ -1,24 +1,40 @@
-# I'm a web developer🙋‍♂️
-<br>
+<h1 align="center">Hi there, I'm Chez 👋</h1>
 
-### Working with:
+<p align="center">
+  💻 Frontend Developer | 🌍 Language Enthusiast | ✨ UI/UX Explorer
+</p>
 
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=3DB7CC" height='40'/></a>
-<img src="https://img.shields.io/badge/Redux-000000?style=flat-square&logo=Redux&logoColor=A566FF" height='40'/></a>
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=Javascript&logoColor=yellow" height='40'/></a>
-<img src="https://img.shields.io/badge/Koa-black?style=flat-square&logo=Koa&logoColor=white" height='40'/></a>
-<img src="https://img.shields.io/badge/Nodejs-black?style=flat-square&logo=Node.js&logoColor=2F9D27" height='40'/></a>
-<img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=Html5&logoColor=F29661" height='40'/></a><br/>
-<img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=Mongodb&logoColor=2F9D27" height='40'/></a>
-<img src="https://img.shields.io/badge/CSS3-black?style=flat-square&logo=Css3&logoColor=yellow" height='40'/></a>
-<img src="https://img.shields.io/badge/Typescript-black?style=flat-square&logo=Typescript&logoColor=blue" height='40'/></a>
-<img src="https://img.shields.io/badge/Styledcomponents-black?style=flat-square&logo=Styledcomponents&logoColor=FFE08C" height='40'/></a>
-<img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=white" height='40'/></a><br/>
-<br>
+---
 
+### 👨‍💻 About Me
 
-<!--<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-south-korea_1f1f0-1f1f7.png" width='40'></a>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-united-states_1f1fa-1f1f8.png" width='40'></a>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-japan_1f1ef-1f1f5.png" width='40'></a>
-<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-china_1f1e8-1f1f3.png" width='40'></a>--!>
+I'm a frontend developer with a passion for building fast, accessible, and beautifully crafted web applications — especially with **Next.js**.  
+I love creating smooth user experiences and exploring new frontend tools and libraries.
 
+- 🔭 Currently exploring **Next.js 14**, **App Router**, and **Server Components**
+- 🌱 Always learning about **performance optimization**, **design systems**, and **i18n**
+- 💬 Languages I speak: English, Japanese, Korean, Chinese, and conversational Spanish
+- 📘 I have experience translating technical books from **English, Chinese, and Japanese into Korean**,  
+covering topics such as **frontend frameworks**, **algorithms**, **Docker**, and **code review practices**.
+---
+
+### 🔧 Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🌐 I’m interested in
+
+- 🌎 Building globally accessible web apps
+- 🧩 Designing reusable components & UI systems
+- 🗣 Bridging the gap between **code** and **content** (i18n, localization)
+- ✨ Creating clean, delightful user experiences
+
+---
+
+_Thanks for stopping by! Have a great day ☀️_
